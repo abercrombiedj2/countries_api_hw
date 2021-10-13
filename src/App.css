@@ -36,3 +36,11 @@
     transform: rotate(360deg);
   }
 }
+
+.container {
+  display: flex;
+}
+
+.flag {
+  max-width: 10vw;
+}
